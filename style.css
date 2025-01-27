@@ -5,6 +5,9 @@
     font-family: 'inter', 'Courier New', Courier, monospace;
 }
 
+body {
+    height: 100vh;
+}
 p {
     color: black;
 }
@@ -97,4 +100,8 @@ input[type=number] {
 .measurement-container p {
     color: #353535;
     font-size: 14px;
+}
+
+#info-para {
+    margin-top: 200px
 }
